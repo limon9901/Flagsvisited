@@ -1,0 +1,11 @@
+.flags{
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px;
+}
+.visited{
+    background-color: lightgreen;
+}
+.flags button{
+    cursor: pointer;
+}
