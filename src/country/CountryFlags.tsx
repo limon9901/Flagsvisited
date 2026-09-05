@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import './countryflags.css'
 import type { CountryType } from '../type'
 interface CountryFlagType{
